@@ -1,0 +1,14 @@
+C:\Users\user name\source\repos\tarea 3 programacion ( justin )\tarea 3 programacion ( justin )\bin\Debug\tarea 3 programacion ( justin ).exe.config
+C:\Users\user name\source\repos\tarea 3 programacion ( justin )\tarea 3 programacion ( justin )\bin\Debug\tarea 3 programacion ( justin ).exe
+C:\Users\user name\source\repos\tarea 3 programacion ( justin )\tarea 3 programacion ( justin )\bin\Debug\tarea 3 programacion ( justin ).pdb
+C:\Users\user name\source\repos\tarea 3 programacion ( justin )\tarea 3 programacion ( justin )\obj\Debug\tarea 3 programacion ( justin ).csprojAssemblyReference.cache
+C:\Users\user name\source\repos\tarea 3 programacion ( justin )\tarea 3 programacion ( justin )\obj\Debug\tarea_3_programacion___justin__.calculadora.resources
+C:\Users\user name\source\repos\tarea 3 programacion ( justin )\tarea 3 programacion ( justin )\obj\Debug\tarea_3_programacion___justin__.Properties.Resources.resources
+C:\Users\user name\source\repos\tarea 3 programacion ( justin )\tarea 3 programacion ( justin )\obj\Debug\tarea 3 programacion ( justin ).csproj.GenerateResource.cache
+C:\Users\user name\source\repos\tarea 3 programacion ( justin )\tarea 3 programacion ( justin )\obj\Debug\tarea 3 programacion ( justin ).exe
+C:\Users\user name\source\repos\tarea 3 programacion ( justin )\tarea 3 programacion ( justin )\obj\Debug\tarea 3 programacion ( justin ).pdb
+C:\Users\user name\source\repos\tarea 3 programacion ( justin )\tarea 3 programacion ( justin )\obj\Debug\tarea_3_programacion___justin__.nomina_semanal.resources
+C:\Users\user name\source\repos\tarea 3 programacion ( justin )\tarea 3 programacion ( justin )\obj\Debug\tarea_3_programacion___justin__.casa_de_cambio.resources
+C:\Users\user name\source\repos\tarea 3 programacion ( justin )\tarea 3 programacion ( justin )\obj\Debug\tarea_3_programacion___justin__.menu.resources
+C:\Users\user name\source\repos\tarea 3 programacion ( justin )\tarea 3 programacion ( justin )\obj\Debug\tarea_3_programacion___justin__.splash.resources
+C:\Users\user name\source\repos\tarea 3 programacion ( justin )\tarea 3 programacion ( justin )\obj\Debug\tarea_3_programacion___justin__.Formulario_Login.resources
